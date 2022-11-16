@@ -5,5 +5,6 @@ def main():
     Returns:
         result: float
     """
-
-    return
+    
+    return float(10)
+print(main())    
